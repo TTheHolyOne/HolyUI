@@ -6,6 +6,10 @@ HolyUI is a C# UI
 ## About
 This is a Template for a C# (Windows Forms App (.NET Framework)
 
+<iframe width="420" height="315"
+src="https://cdn.discordapp.com/attachments/848289604226383972/848461482622320660/2021-05-30_02-21-41.mp4">
+</iframe>
+
 <br/>
 ## How to use
 First off you need Visual Studio, once installed create a new project and select "Windows Forms App (.NET Framework)" then inside of that replace ALL of the files with the files in this github then click F5 and enjoy! You can easily edit the text, credits, and the install buttons code but I am not explaining that here.
