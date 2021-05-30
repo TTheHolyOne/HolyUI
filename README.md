@@ -9,7 +9,8 @@ This is a Template for a C# (Windows Forms App (.NET Framework)
 <br/>
 
 
-<a href="https://cdn.discordapp.com/attachments/848289604226383972/848461482622320660/2021-05-30_02-21-41.mp4" title="Tutorial">Video</a>
+[![WATCH OVERVIEW HERE](https://img.youtube.com/vi/xTMPbCg1DQQ/0.jpg)](https://cdn.discordapp.com/attachments/848289604226383972/848461482622320660/2021-05-30_02-21-41.mp4)
+
 
 
 <br/>
