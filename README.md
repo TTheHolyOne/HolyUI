@@ -14,6 +14,8 @@ First off you need Visual Studio, once installed create a new project and select
 Either start a issue in this GitHub Repository or join the <a href="https://discord.gg/JpNPAKfxS9">Discord</a>
 <br/>
 ## Developer
+
+
 ```
 TTheHolyOne#1642 | https://github.com/ttheholyone
 ```
